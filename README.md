@@ -97,6 +97,7 @@ The Cure Axis Paradigm is designed to evolve into:
 ## 📜 License
 
 This work is open source under the MIT License. We believe that paradigm-shifting ideas should belong to humanity.
+For specific version references, please refer to the [Releases](https://github.com/CureAxis-Paradigm/The-Cure-Axis-Paradigm/releases) page.
 
 ---
 
