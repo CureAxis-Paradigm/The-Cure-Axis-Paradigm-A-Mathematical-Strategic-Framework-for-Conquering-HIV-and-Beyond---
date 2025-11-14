@@ -1,4 +1,4 @@
-# The Cure Axis Paradigm: An HIV/AIDS Mathematical-Strategic Framework
+# The Cure Axis Paradigm: An HIV/AIDS Mathematical-Strategic Framework(治愈轴心)
 
 > A Mathematical-Strategic Framework for Neutralizing Hypervariable Viruses and Building Civilization-Level Immunity
 
