@@ -101,3 +101,15 @@ This work is open source under the MIT License. We believe that paradigm-shiftin
 ---
 
 *"We don't fight the virus on its terms. We change the rules of the game."* - The Cure Axis Paradigm
+## 📖 Communication Guidelines
+
+For community members, media, and researchers discussing or disseminating the Cure Axis Paradigm, please follow our communication guidelines to ensure accurate and responsible messaging:
+
+- [中文宣传与传播指导书](docs/%E3%80%8A%E6%B2%BB%E6%84%88%E8%BD%B4%E5%BF%83%E3%80%8B%E9%A1%B9%E7%9B%AE%E5%AE%A3%E4%BC%A0%E4%B8%8E%E4%BC%A0%E6%92%AD%E6%8C%87%E5%AF%BC%E4%B9%A6.pdf) - 完整中文版传播指南
+- [English Communication Guide](docs/The%20Cure%20Axis%20Paradigm%20Project%20Communication%20and%20Dissemination%20Guide.pdf) - Complete English Communication Guide
+
+**Key Principles:**
+- This is a **theoretical framework** - not a proven medical solution
+- Focus on the **paradigm shift** and **mathematical foundations**
+- Maintain **scientific rigor** and **ethical boundaries**
+- Direct all discussions back to this repository for accurate information
