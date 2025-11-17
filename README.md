@@ -36,10 +36,12 @@ Our strategy is anchored in three deterministic laws that viruses cannot颠覆:
 - **Strategy**: Reprogram defense units to convert viral attack signals into resources, achieving ultimate "recruitment" of the threat.
 - **Status**: Theoretical exploration phase
 
-### Repository Contents
+## 📚 Repository Contents
 
-- [`CureAxis-Paradigm_Original-ZH.pdf`](CureAxis-Paradigm_Original-ZH.pdf) - Original thesis in Chinese (作者徐志焕)
-- [`CureAxis-Paradigm_Translated-EN.pdf`](CureAxis-Paradigm_Translated-EN.pdf) - English translation (AI-assisted, author-reviewed)
+- **[CureAxis-Paradigm_Original-ZH.pdf](./CureAxis-Paradigm_Original-ZH.pdf)** - Original thesis in Chinese (作者徐志焕)
+- **[CureAxis-Paradigm_Translated-EN.pdf](./CureAxis-Paradigm_Translated-EN.pdf)** - English translation (AI-assisted, author-reviewed)
+
+*如果上述链接仍无法工作，请在仓库文件列表中直接查找并下载PDF文件。*
 ## 🎯 Immediate Impact Potential
 
 The Clearance Layer alone—through its molecular decoy strategy—has the potential to:
