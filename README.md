@@ -36,10 +36,10 @@ Our strategy is anchored in three deterministic laws that viruses cannot颠覆:
 - **Strategy**: Reprogram defense units to convert viral attack signals into resources, achieving ultimate "recruitment" of the threat.
 - **Status**: Theoretical exploration phase
 
-## 📚 Repository Contents
+### Repository Contents
 
-- `CureAxis-Paradigm_Original-ZH.pdf` - Original thesis in Chinese (作者徐志焕)
-- `CureAxis-Paradigm_Translated-EN.pdf` - English translation (AI-assisted, author-reviewed)
+- [`CureAxis-Paradigm_Original-ZH.pdf`](CureAxis-Paradigm_Original-ZH.pdf) - Original thesis in Chinese (作者徐志焕)
+- [`CureAxis-Paradigm_Translated-EN.pdf`](CureAxis-Paradigm_Translated-EN.pdf) - English translation (AI-assisted, author-reviewed)
 
 ## 🎯 Immediate Impact Potential
 
