@@ -40,7 +40,6 @@ Our strategy is anchored in three deterministic laws that viruses cannot颠覆:
 
 - [`CureAxis-Paradigm_Original-ZH.pdf`](CureAxis-Paradigm_Original-ZH.pdf) - Original thesis in Chinese (作者徐志焕)
 - [`CureAxis-Paradigm_Translated-EN.pdf`](CureAxis-Paradigm_Translated-EN.pdf) - English translation (AI-assisted, author-reviewed)
-
 ## 🎯 Immediate Impact Potential
 
 The Clearance Layer alone—through its molecular decoy strategy—has the potential to:
